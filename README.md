@@ -2,7 +2,7 @@
 
 В данном репозитории находится пример приложения "Счетчик", для которого в рамках [статьи](https://vc.ru/dev/154739-testiruem-veb-prilozhenie-s-cypress) мы будем писать e2e тесты. Склонируйте мастер ветку и выполняйте инструкции из статьи.
 
-Посмотреть результат можно в ветке finish.
+Посмотреть результат можно в ветке [finish](https://github.com/maxfarseer/counter-e2e-elm/tree/finish).
 
 ## Для запуска проекта
 
@@ -12,5 +12,5 @@
 
 ---
 
-- Проект был создан с [Create React App](https://github.com/facebook/create-react-app).
-- мотиватор, компания [Selectel](https://selectel.ru/?utm_source=vc.ru_maxgithub&utm_medium=referral&utm_campaign=Brand_Spec_270820_Instructions)
+- Проект был создан с [Create Elm App](https://github.com/halfzebra/create-elm-app).
+- мотивация: [конкурс от Selectel](https://vc.ru/promo/152560-konkurs-napishite-instrukciyu-na-tehnicheskuyu-temu)
