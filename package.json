@@ -6,12 +6,14 @@
   "directories": {
     "test": "tests"
   },
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "cypress": "^5.1.0"
   },
-  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "elm-app start",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test:cy": "cypress open"
   },
   "repository": {
     "type": "git",
