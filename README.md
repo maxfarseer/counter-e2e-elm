@@ -6,7 +6,23 @@
 
 ## Для запуска проекта
 
-### `elm-app start`
+Сначала, вам необходимо установить скрипты, которые используются в create-elm-app
+
+```
+npm install create-elm-app -g
+```
+
+Затем вы можете запустить скрипт привычной командой:
+
+```
+npm start
+```
+
+или как указано в create-elm-app
+
+```
+elm-app start
+```
 
 Откройте [http://localhost:3000](http://localhost:3000)
 
